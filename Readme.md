@@ -28,7 +28,7 @@ Running that should result in something like this:
 
 ![](http://f.cl.ly/items/2O3T0V0h320D2R1o373n/Screen%20Shot%202013-11-08%20at%2011.34.50.png)
 
-The thing to use as testtool is just a Wrapper around NSAssert - beautified with some colors. 
+The thing used as a "testtool" is just a wrapper around NSAssert - beautified with some colors. 
 
 ### Last words
 
